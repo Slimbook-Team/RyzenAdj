@@ -1,0 +1,15 @@
+Source: ryzenadj
+Section: utils
+Priority: optional
+Maintainer: Slimbook <dev@slimbook.es>
+Build-Depends: debhelper (>=10), build-essential, cmake, libpci-dev
+Standards-Version: 3.9.7
+Homepage: https://github.com/FlyGoat/RyzenAdj
+
+Package: ryzenadj
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Adjust power management settings for Ryzen Mobile Processors.
+ Adjust power management settings for Ryzen Mobile Processors.
+
+
