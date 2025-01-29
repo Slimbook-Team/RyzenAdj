@@ -1,3 +1,9 @@
+ryzenadj (0.15.0+slimbook1~bpo22.04.0) jammy; urgency=medium
+
+  * Jammy backport
+
+ -- Slimbook <dev@slimbook.es>  Wed, 29 Jan 2025 11:53:24 +0100
+
 ryzenadj (0.15.0+slimbook1) noble; urgency=medium
 
   * Initial release.
