@@ -1,3 +1,9 @@
+ryzenadj (0.16.0+slimbook1) noble; urgency=medium
+
+  * Based on release: c9b07e009a51c2fb9a6fc40ea74fbee27994b4a5
+
+ -- Slimbook <dev@slimbook.es>  Wed, 23 Apr 2025 09:25:41 +0200
+
 ryzenadj (0.15.0+slimbook1) noble; urgency=medium
 
   * Initial release.
